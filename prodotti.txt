@@ -1,0 +1,200 @@
+1,miele,alimentari,42.07 ,37986
+2,router,elettronica,90.74 ,39709
+3,mestolo,cucina,25.41,20388
+4,roadster,automobili,101.69,17314
+5,unghie finte,bellezza,163.67,42276
+6,chiave inglese,strumenti,109.25,37495
+7,pialla,fai da te,7.74,17841
+8,scopa elettrica,casalinghi,160.51,14220
+9,pistola ad acqua,giocattoli,159.17,19444
+10,latte,alimentari,163.24,28290
+11,ibrida,automobili,75.09,26143
+12,scalpello,strumenti,88.11,16916
+13,poesie,libri,169.88,32844
+14,coperta da viaggio,viaggi,65.06,47046
+15,crema corpo,bellezza,38.52,45144
+16,router,informatica,5.08,32530
+17,storia,libri,147.97,37034
+18,guanti,salute,38.64,3825
+19,alimentatore,informatica,51.68,31203
+20,jeans,abbigliamento,18.60,37079
+21,coupe,automobili,139.45,21017
+22,sedia,arredamento,175.91,33902
+23,scaffale,arredamento,144.53,30375
+24,cucchiaio,cucina,146.18,17269
+25,tenaglie,strumenti,140.03,17146
+26,borsa,abbigliamento,47.29,43704
+27,automobile,automobili,32.56,8240
+28,chitarra,musica,152.84,21367
+29,vino,alimentari,71.73,38394
+30,tromba,musica,188.97,41104
+31,violino,musica,33.76,32741
+32,gomitiere,sport,113.89,48694
+33,felpa,abbigliamento,153.56,46290
+34,bicchiere,cucina,113.88,8006
+35,tazza,cucina,55.04,37415
+36,spremiagrumi,cucina,85.68,7504
+37,pistola per colla,fai da te,89.34,36698
+38,passaporto,viaggi,160.84,31872
+39,pesi,sport,52.11,39484
+40,cuscino da viaggio,viaggi,130.49,18255
+41,pantaloni,abbigliamento,6.09,114
+42,caffè,alimentari,195.29,5600
+43,smerigliatrice,strumenti,115.02,40982
+44,mouse gaming,videogiochi,101.22,25306
+45,guanti,sport,23.13,44428
+46,videogioco,videogiochi,102.77,36818
+47,cacciavite,strumenti,159.39,43138
+48,puzzle,giocattoli,111.97,37180
+49,pentola,cucina,177.76,34707
+50,shampoo,bellezza,13.78,18410
+51,palla,giocattoli,41.68,10380
+52,saggio,libri,116.21,45636
+53,etichetta bagaglio,viaggi,39.49,3520
+54,pillola,salute,73.85,49781
+55,seghetto,fai da te,149.78,21283
+56,livella laser,fai da te,140.91,30987
+57,pialla,strumenti,86.75,8665
+58,rossetto,bellezza,150.43,28422
+59,maschera per dormire,viaggi,23.67,12813
+60,hard disk,elettronica,176.49,22318
+61,copertura per piante,giardinaggio,185.93,36103
+62,occhiali da sole,abbigliamento,160.37,374
+63,station wagon,automobili,71.41,18308
+64,disinfettante,salute,64.30,32294
+65,gioco educativo,giocattoli,83.20,33523
+66,divano,arredamento,8.62,5701
+67,borsa da viaggio,viaggi,108.29,34680
+68,profumo,bellezza,154.41,1733
+69,stampante,informatica,163.14,770
+70,case da gaming,videogiochi,66.88,43957
+71,moto,automobili,132.96,29979
+72,sci,sport,72.22,33541
+73,forno,casalinghi,67.82,34216
+74,divano,casalinghi,110.87,42516
+75,snowboard,sport,188.49,6904
+76,tostapane,casalinghi,117.30,23905
+77,chiavetta USB,elettronica,126.63,26374
+78,concime,giardinaggio,156.15,17836
+79,quadro,arredamento,58.23,1207
+80,formaggio,alimentari,101.72,49630
+81,tappi per le orecchie,viaggi,69.37,9637
+82,cuffie gaming,informatica,23.07,43133
+83,scrivania,arredamento,188.14,27403
+84,batteria,musica,187.10,11657
+85,ellittica,sport,124.16,5918
+86,adattatore universale,viaggi,164.30,40556
+87,convertibile,automobili,7.73,2602
+88,minivan,automobili,165.57,9678
+89,scarpe,abbigliamento,77.35,28996
+90,oscillante,strumenti,188.58,14321
+91,lavastoviglie,casalinghi,12.66,49423
+92,costruzioni,giocattoli,140.39,49778
+93,zaino,viaggi,87.32,42734
+94,tappeto,arredamento,114.02,9302
+95,misuratore di pressione,salute,187.25,35499
+96,microfono,musica,113.20,7042
+97,fondotinta,bellezza,156.96,48623
+98,SSD,informatica,12.91,7270
+99,seghetto alternativo,fai da te,94.81,37447
+100,ukulele,musica,73.98,39447
+101,trapano,strumenti,10.81,39400
+102,olio,alimentari,9.05,28910
+103,seminaio,giardinaggio,7.96,47354
+104,coupé,automobili,168.28,31716
+105,macchinina,giocattoli,93.78,14934
+106,scivolo,giocattoli,185.62,47611
+107,armadio,arredamento,107.64,6045
+108,sarchiatrice,giardinaggio,160.49,32271
+109,cipria,bellezza,183.53,8562
+110,amplificatore,musica,197.77,45958
+111,benda,salute,36.02,45927
+112,attrezzatura da palestra,sport,48.44,32333
+113,saldatrice,strumenti,122.53,19422
+114,mouse,informatica,43.60,15516
+115,thriller,libri,196.41,28988
+116,terra,giardinaggio,39.71,11325
+117,pinza,strumenti,20.75,16103
+118,VR headset,videogiochi,95.25,6100
+119,compressa fredda,salute,53.33,7273
+120,letto,arredamento,194.06,40962
+121,zappa,giardinaggio,93.83,26583
+122,giacca,abbigliamento,85.62,23729
+123,tagliere,cucina,107.00,46022
+124,bollitore,casalinghi,40.77,1049
+125,headset,videogiochi,90.85,47782
+126,integratori,salute,11.28,27579
+127,robot da cucina,casalinghi,187.35,32447
+128,piatto,cucina,54.74,15627
+129,webcam,elettronica,63.64,18862
+130,videogioco,giocattoli,145.32,13424
+131,skate,sport,157.46,25604
+132,lavatrici,casalinghi,176.66,29705
+133,seghetto,strumenti,169.87,4277
+134,racchetta,sport,168.64,43074
+135,vestito,abbigliamento,70.98,11117
+136,self-help,libri,46.36,24598
+137,giallo,libri,126.67,2118
+138,frigorifero,casalinghi,154.93,45414
+139,potatore,giardinaggio,107.10,25595
+140,aceto,alimentari,26.05,7162
+141,kit da viaggio,viaggi,183.14,32824
+142,cravatta,abbigliamento,181.10,30679
+143,RAM,informatica,37.62,14168
+144,piante artificiali,giardinaggio,171.15,6140
+145,scanner,informatica,89.35,27596
+146,treno giocattolo,giocattoli,108.85,47616
+147,cappello,abbigliamento,7.97,3982
+148,trapano avvitatore,fai da te,50.48,20267
+149,tastiera meccanica,videogiochi,33.80,2756
+150,notebook,elettronica,31.06,10547
+151,sugo,alimentari,22.39,15558
+152,macchina del caffè,cucina,192.43,29222
+153,libro per bambini,libri,106.20,17169
+154,joystick,videogiochi,137.39,38420
+155,tapis roulant,sport,164.31,19581
+156,biscotti,alimentari,96.73,904
+157,livella,strumenti,78.56,5187
+158,pasta,alimentari,141.70,25094
+159,robot da cucina,cucina,115.72,4333
+160,sax,musica,124.44,2181
+161,tenda da gioco,giocattoli,10.32,22586
+162,NAS,informatica,166.40,27829
+163,CPU,informatica,8.68,27123
+164,martello,strumenti,149.67,29307
+165,mascherina,salute,191.22,40676
+166,cacciavite,fai da te,40.09,8216
+167,casco,sport,136.71,36337
+168,tosaerba,giardinaggio,176.92,47260
+169,poltrona,arredamento,149.02,32097
+170,vassoio per semi,giardinaggio,34.78,25249
+171,tavolo da biliardo,giocattoli,9.36,31632
+172,tè,alimentari,93.09,36375
+173,eyeliner,bellezza,145.55,18875
+174,pianoforte,musica,106.94,11415
+175,spruzzatore,giardinaggio,40.88,26595
+176,basso,musica,19.97,46139
+177,fantasy,libri,58.54,4007
+178,elettrica,automobili,144.68,47328
+179,peluche,giocattoli,67.95,17102
+180,scatola per souvenir,viaggi,61.66,690
+181,forchetta,cucina,82.01,45482
+182,forbici da potatura,giardinaggio,87.10,37428
+183,maschera facciale,bellezza,142.67,2269
+184,zucchero,alimentari,22.08,39614
+185,valigia,viaggi,129.87,44974
+186,bambola,giocattoli,56.08,33883
+187,libreria,arredamento,144.61,36661
+188,cioccolato,alimentari,23.33,40036
+189,libro di cucina,libri,30.69,20221
+190,maglietta,abbigliamento,111.58,33664
+191,bicicletta,sport,149.87,35055
+192,coltello,cucina,191.99,34743
+193,specchio,arredamento,144.53,4749
+194,armadio,casalinghi,133.24,11711
+195,smartwatch,elettronica,88.06,28199
+196,comò,arredamento,109.38,31505
+197,lampada da terra,arredamento,164.09,613
+198,scarpe da calcio,sport,156.95,27657
+199,glucometro,salute,87.07,35044
+200,termometro,salute,132.72,41764

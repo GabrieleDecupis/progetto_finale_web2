@@ -28,7 +28,6 @@ const Prodotti = () => {
     textShadow: '0px 0px 0px rgba(0, 0, 0, 0.9)',
   };
 
-  // Titolo con dimensione responsiva
   const titleStyle = {
     color: 'rgba(253, 2, 2, 0.9)',
     textAlign: 'center', 
@@ -54,7 +53,6 @@ const Prodotti = () => {
     getProducts();
   }, []);
 
-  // Estrae e ordina alfabeticamente le categorie
   const categories = [...new Set(products.map(product => product.categoria))].sort();
 
   let filteredProducts = products;

@@ -5,10 +5,6 @@ app = Flask(__name__)
 CORS(app)
 
 def load_data(filename, columns, converters=None):
-    """
-    Legge i dati dal file specificato, interpretando ogni riga come una lista di valori separati da virgola.
-    I nomi delle colonne e, opzionalmente, le conversioni (ad es. int, float) vengono applicati ai valori.
-    """
     if converters is None:
         converters = {}
     data = []

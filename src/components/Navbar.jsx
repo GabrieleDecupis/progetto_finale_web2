@@ -6,22 +6,20 @@ const CustomNavbar = () => {
   const [showMenu, setShowMenu] = useState(false);
   const location = useLocation(); 
 
-  // Quando il cursore entra nell'area contenente hamburger e menu
   const handleMouseEnter = () => {
     setShowMenu(true);
   };
 
-  // Quando il cursore lascia l'area contenente hamburger e menu
+
   const handleMouseLeave = () => {
     setShowMenu(false);
   };
 
-  // Chiude il menu dopo un click sul link di navigazione
+  
   const handleNavClick = () => {
     setShowMenu(false);
   };
 
-  // Stile del contenitore che racchiude hamburger e menu (fisso in alto a sinistra)
   const containerStyle = {
     position: 'fixed',
     top: '20px',
@@ -29,7 +27,6 @@ const CustomNavbar = () => {
     zIndex: 2000,
   };
 
-  // Stile dell'hamburger (le 3 linee)
   const hamburgerStyle = {
     cursor: 'pointer',
   };
@@ -41,7 +38,6 @@ const CustomNavbar = () => {
     margin: '5px 0',
   };
 
-  // Menu a tendina
   const dropdownMenuStyle = {
     position: 'absolute',
     top: '28px',
@@ -65,7 +61,7 @@ const CustomNavbar = () => {
     { path: "/about", label: "About" }
   ];
 
-  // Evita di mostrare la voce di menu corrispondente alla pagina corrente
+  
   const filteredMenuItems = menuItems.filter(item => item.path !== location.pathname);
 
   return (
@@ -74,14 +70,12 @@ const CustomNavbar = () => {
       onMouseEnter={handleMouseEnter}
       onMouseLeave={handleMouseLeave}
     >
-      {/* Hamburger con aggiunta dell'onClick per dispositivi touch */}
       <div style={hamburgerStyle} onClick={() => setShowMenu(prev => !prev)}>
         <div style={lineStyle}></div>
         <div style={lineStyle}></div>
         <div style={lineStyle}></div>
       </div>
 
-      {/* Menu a tendina */}
       {showMenu && (
         <div style={dropdownMenuStyle}>
           <Nav className="flex-column">
